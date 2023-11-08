@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+E:\AU2023-2024\SOA\LSI3_SOA_SW\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3295996359.index
+3201021359.index
+3010713937.index
